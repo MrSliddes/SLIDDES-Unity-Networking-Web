@@ -1,0 +1,14 @@
+{
+    "name": "SLIDDES.Networking.Web",
+    "rootNamespace": "SLIDDES.Networking.Web",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
